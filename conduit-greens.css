@@ -1,0 +1,155 @@
+.chat-message-identity {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.chat-entry {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.chat-entry-content {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.chat-entry-username {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.text-white {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+#chatroom {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+#main-view {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.inner-label {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #75fd46!important;
+    opacity: 1; /* Firefox */
+    text-transform: uppercase;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.stream-username {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+emote-picker-section > .stream-title {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.category-tag-component {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.text-gray-400 {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.chatroom-event-sub__label {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.chat-emote-picker-popout {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.sidebar {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.item-content {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.item-name {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.item-categories {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.item-content {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.\!text-gray-500 {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.show-action-btn {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.send-row {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.user_information {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+mark {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.live-tags {
+    background-color: #75fd46!important;
+    color: black!important;
+    text-transform: uppercase;
+}
+
+.text-sm {
+    font-size: .5rem!important;
+}
+
+.text-\[#999999\] {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}
+
+.text-white\/40 {
+    color: #75fd46!important;
+    text-transform: uppercase;
+}

@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Conduit for Kick",
+    "description": "A Conduit for the Kick Streaming Platform.",
+    "version": "0.0.1",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+      "default_icon": "conduit-icon.png"
+    },
+    "background": {
+        "service_worker": "conduit-service-worker-one.js"
+    }
+  }
