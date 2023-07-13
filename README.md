@@ -1,5 +1,5 @@
 # KICK-CONDUIT
-Conduit for Kick v0.0.1
+Conduit for Kick v0.0.2
 
 Unpacked Google Chrome Extension
 
