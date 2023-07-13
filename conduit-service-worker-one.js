@@ -82,42 +82,7 @@ function PageGreens() {
 }
 
 function PageNoGreens() {
-    var paths = document.querySelectorAll("path"),
-    i;
-
-    for (i = 0; i < paths.length; ++i) {
-        paths[i].setAttribute('style', 'fill:currentColor');
-        paths[i].setAttribute('fill', 'currentColor');
-    }
-
-    var items = document.getElementsByClassName("item-name");
-    for(var i = 0; i < items.length; i++)
-    {
-        items[i].className = "item-name !text-gray-500";
-    }
-    
-    //var old_document = document;
-    //var new_document = old_document.cloneNode(true);
-    //old_document.parentNode.replaceChild(new_document, old_document);
-
-    document.addEventListener("click", function() {
-        var paths = document.querySelectorAll("path"), i;
-
-        for (i = 0; i < paths.length; ++i) {
-            paths[i].setAttribute('style', 'fill:currentColor');
-            paths[i].setAttribute('fill', 'currentColor');
-        }
-
-        var items = document.getElementsByClassName("item-name");
-        for(var i = 0; i < items.length; i++)
-        {
-            items[i].className = "item-name !text-gray-500";
-        }
-    });
-
-    var theatreElement = document.querySelectorAll(".vjs-icon-placeholder.kick-icon-font.kick-icon-theater")[0];
-    var newTheatreElement = theatreElement.cloneNode(true);
-    theatreElement.parentNode.replaceChild(newTheatreElement, theatreElement);
+    window.location.reload();
 }
 
 
