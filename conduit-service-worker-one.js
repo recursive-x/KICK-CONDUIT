@@ -6,6 +6,9 @@ function PageGreens() {
         if (browserfs.requestFullscreen) {
             browserfs.requestFullscreen();
         }
+
+        var chat = document.querySelectorAll(".overflow-y-scroll.py-3")[0];
+        chat.scrollTop = chat.scrollHeight;
     }
     function gowindow() {
         if (document.exitFullscreen) {
